@@ -26,5 +26,5 @@
 ![alt text](https://github.com/Diego-EC/bem-demo/blob/master/readme-img/bem2.PNG?raw=true)
 - Global modifiers cannot be used.  
 ![alt text](https://github.com/Diego-EC/bem-demo/blob/master/readme-img/bem3.PNG?raw=true)
-- In the CSS file the modifiers always go after the element to modify, because of the cascade, otherwise it does not work.
+- In the CSS file the modifiers always go after the element to modify, because of the cascade, otherwise it does not work.  
 ![alt text](https://github.com/Diego-EC/bem-demo/blob/master/readme-img/bem4.PNG?raw=true)
